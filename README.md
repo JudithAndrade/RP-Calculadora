@@ -17,7 +17,7 @@ RPCalculadora es un servidor y cliente de calculadora remota que utiliza el prot
 ### Iniciar el Servidor
 
 1. Abre una terminal o símbolo del sistema.
-2. Navega al directorio donde se encuentra `RPServer.py` utilizando el comando `cd`. Por ejemplo:
+2. Navega al directorio donde se encuentra  `RPServer.py` y `RPCliente.py` utilizando el comando `cd`. Por ejemplo:
 
    ```bash
    cd C:\Users\Cliente\Desktop\Backend 2\RPCalculadora
