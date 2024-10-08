@@ -1,5 +1,4 @@
 # RP-Calculadora
-# RPCalculadora
 
 RPCalculadora es un servidor y cliente de calculadora remota que utiliza el protocolo XML-RPC en Python. Permite realizar operaciones matemáticas básicas de forma remota a través de una conexión de red.
 
